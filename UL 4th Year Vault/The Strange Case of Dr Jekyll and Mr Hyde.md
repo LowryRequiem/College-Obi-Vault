@@ -1,0 +1,10 @@
+#literature 
+"Strange Case of Dr. Jekyll and Mr. Hyde" is a novella written by Robert Louis Stevenson, published in 1886. It's a classic work of Gothic horror that explores themes of duality, moral ambiguity, and the dark side of human nature.
+
+**Narrative Elements:** The story is narrated from multiple perspectives, primarily through the eyes of Mr. Gabriel John Utterson, a lawyer and friend of Dr. Henry Jekyll. Utterson becomes increasingly intrigued by the strange behavior and connection between Jekyll and the sinister Mr. Edward Hyde. As he investigates, the narrative unfolds through a series of letters, witness accounts, and diary entries, creating a sense of mystery and suspense.
+
+**Textual Elements:** Stevenson's writing style uses vivid and descriptive language to create an eerie atmosphere. He employs symbolism and metaphors to convey the inner struggle of Dr. Jekyll, who creates a potion that transforms him into the evil Mr. Hyde. The physical transformation of Hyde, described as a "troglodytic," deformed figure, adds to the sense of horror and revulsion.
+
+**Contextual Elements:** The novella is set in Victorian London, a society marked by strict social norms and a facade of respectability. Jekyll's experiment represents the repression of desires and the consequences of unleashing one's inner darkness, a theme that resonated with the Victorian fear of hidden vices and the consequences of straying from societal norms.
+
+In conclusion, "Strange Case of Dr. Jekyll and Mr. Hyde" contributes to the Gothic horror genre through its multiple narrative perspectives, eerie and descriptive language, and exploration of the duality of human nature within the context of a repressive Victorian society. It remains a classic example of psychological horror and a cautionary tale about the consequences of unchecked inner demons.

@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "20897423d5257a51",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f37050cb67c083e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f8b68c3e972ec26",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec755b7bf1cadfbd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37fda225ee55701e",
+    "type": "split",
+    "children": [
+      {
+        "id": "991c0500cf78930a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a173c7cfbeb2ba68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21b2fecdcc8e12b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69a702de99cff73a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cb87c78e6547380",
+    "type": "split",
+    "children": [
+      {
+        "id": "441f3362a3940c05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1d8d2a0fd10e8d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f1caad828e0828d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "201b614328785929",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1cf94773ccc8bfc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ec755b7bf1cadfbd",
+  "lastOpenFiles": [
+    "4th Year.md",
+    "Modules.md",
+    "Literary Modernism Week 1.md",
+    "Timetable.md",
+    "EH4037 - Creative Writing.md",
+    "timetable autumn 23 1.png",
+    "timetable autumn 23.png",
+    "FYP.md",
+    "HI4247 - Empires, Nations and Union.md",
+    "HI4168 - The Country House in Ireland.md",
+    "EH4007 - Literary Modernism.md"
+  ]
+}
