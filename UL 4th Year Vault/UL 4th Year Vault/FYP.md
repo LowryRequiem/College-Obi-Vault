@@ -25,7 +25,7 @@ The thesis aims to explore the evolution of horror media, comparing classic and 
   - Choose contemporary horror examples from literature (e.g., "House of Leaves") and other mediums (e.g., "Bloodborne").
   - Conduct in-depth analyses of each case study, considering narrative, medium-specific elements, and psychological impact.
 
-### III. Methodology
+### [[III. Methodology]] 
 - **Objective**: Define research methods and tools for data collection and analysis.
 - **Tasks**:
   - Choose appropriate research methods (e.g., qualitative content analysis, literary analysis).

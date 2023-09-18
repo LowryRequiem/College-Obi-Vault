@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "41aadf5f52439542",
+        "id": "cb2daf4470c87f7f",
         "type": "tabs",
         "children": [
           {
-            "id": "a48ee4ad5af8e934",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "37d0c53bfdb51dbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UL 4th Year Vault/EH4037 - Creative Writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16900bb74b59efce",
+            "id": "34f39560958d54a9",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,38 +148,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16900bb74b59efce",
+  "active": "34f39560958d54a9",
   "lastOpenFiles": [
-    "Week 1 To Do List.md",
-    "Creative Writing Week 1.md",
+    "UL 4th Year Vault/Literary Modernism Week 1.md",
+    "UL 4th Year Vault/EH4007 - Literary Modernism.md",
+    "UL 4th Year Vault/Timetable.md",
+    "Country House in Ireland Week 1.md",
+    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
+    "UL 4th Year Vault/FYP.md",
+    "I. Literature Review.md",
+    "HI4168_Country_House_Ireland_outline_2023-4.pdf",
     "UL 4th Year Vault/EH4037 - Creative Writing.md",
+    "Psychological Data.md",
+    "III. Methodology.md",
+    "Secondary Source Data.md",
+    "Primary Source Data.md",
+    "Creative Writing Week 1.md",
+    "Week 1 To Do List.md",
     "Stephen King _Toolbox.pdf",
     "Francine Prose -Reading like a Writer-.pdf",
     "Francine Prose - Words-1.pdf",
     "Empires, Nations and Union Week 1.md",
     "6c3aff42bef0c85f41a54b492e3affbb.pdf",
     "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
-    "UL 4th Year Vault/Timetable.md",
     "House of Leaves Case Study.md",
     "II. Case Studies.md",
-    "UL 4th Year Vault/FYP.md",
-    "I. Literature Review.md",
     "2023-09-13.md",
     "aaron.md",
     "nicola.md",
     "UL 4th Year Vault/Modules.md",
-    "UL 4th Year Vault/EH4007 - Literary Modernism.md",
     "UL 4th Year Vault/4th Year.md",
     "HI4247 Module Outline Autumn 2023.pdf",
-    "UL 4th Year Vault/Literary Modernism Week 1.md",
     "hello arron.md",
     "Bloodborne Case Study.md",
     "The Vampyre Case Study.md",
-    "Strange Case of Dr Jekyll and Mr Hyde Case Study.md",
-    "House of Leaves.md",
-    "The Vampyre.md",
-    "The Strange Case of Dr Jekyll and Mr Hyde.md",
-    "Bloodborne.md",
     "Untitled.canvas",
     "0f16332331b10b73cc9c268837ac6d4d.pdf"
   ]
