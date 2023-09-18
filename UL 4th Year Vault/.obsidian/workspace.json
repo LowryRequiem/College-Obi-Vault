@@ -11,8 +11,12 @@
             "id": "34f39560958d54a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Literary Modernism Week 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literary Modernism Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Literary Modernism Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Literary Modernism Week 2.md"
+              }
             }
           },
           {
@@ -150,6 +158,8 @@
   },
   "active": "34f39560958d54a9",
   "lastOpenFiles": [
+    "III. Methodology.md",
+    "Literary Modernism Week 2.md",
     "UL 4th Year Vault/Literary Modernism Week 1.md",
     "UL 4th Year Vault/EH4007 - Literary Modernism.md",
     "UL 4th Year Vault/Timetable.md",
@@ -160,7 +170,6 @@
     "HI4168_Country_House_Ireland_outline_2023-4.pdf",
     "UL 4th Year Vault/EH4037 - Creative Writing.md",
     "Psychological Data.md",
-    "III. Methodology.md",
     "Secondary Source Data.md",
     "Primary Source Data.md",
     "Creative Writing Week 1.md",
@@ -181,7 +190,6 @@
     "HI4247 Module Outline Autumn 2023.pdf",
     "hello arron.md",
     "Bloodborne Case Study.md",
-    "The Vampyre Case Study.md",
     "Untitled.canvas",
     "0f16332331b10b73cc9c268837ac6d4d.pdf"
   ]

@@ -2,6 +2,8 @@
 # Class Notes
 
  - [[Literary Modernism Week 1]]
+ - [[Literary Modernism Week 2]] 
+ - 
 
 # Module Outline
 
