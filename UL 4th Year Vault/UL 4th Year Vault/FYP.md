@@ -44,7 +44,7 @@ The thesis aims to explore the evolution of horror media, comparing classic and 
 - **Objective**: Explore the roots of the horror genre in gothic literature.
 - **Tasks**:
   - Discuss classic gothic texts and their influence on the genre.
-  - Analyze themes, motifs, and conventions in early horror.
+  - Analyse themes, motifs, and conventions in early horror.
 
 ### VI. The Multimedia Transformation of Horror
 - **Objective**: Examine the evolution of horror across different mediums.
