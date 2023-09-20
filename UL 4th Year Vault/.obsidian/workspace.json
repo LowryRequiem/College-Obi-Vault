@@ -8,12 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7348131e5a202a7a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "34f39560958d54a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative Writing Week 1.md",
+                "file": "Empires, Nations and Union Week 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creative Writing Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creative Writing Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Creative Writing Week 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,22 +160,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34f39560958d54a9",
+  "active": "7348131e5a202a7a",
   "lastOpenFiles": [
-    "Francine Prose - Words-1.pdf",
+    "Empires, Nations and Union Week 2.md",
+    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
+    "Empires, Nations and Union Week 1.md",
+    "Literary Modernism Week 2.md",
     "Creative Writing Week 1.md",
+    "Francine Prose - Words-1.pdf",
     "UL 4th Year Vault/FYP.md",
     "I. Literature Review.md",
     "II. Case Studies.md",
     "House of Leaves Case Study.md",
     "III. Methodology.md",
-    "Empires, Nations and Union Week 1.md",
-    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
     "UL 4th Year Vault/EH4007 - Literary Modernism.md",
     "Untitled.canvas",
     "Untitled.md",
     "Country House in Ireland Week 1.md",
-    "Literary Modernism Week 2.md",
     "Heart of Darkness.md",
     "UL 4th Year Vault/Literary Modernism Week 1.md",
     "UL 4th Year Vault/Timetable.md",
