@@ -3,6 +3,7 @@
 # Class Notes
 
 [[Creative Writing Week 1]]
+[[Creative Writing Week 2]]
 
 # Module Outline
 
