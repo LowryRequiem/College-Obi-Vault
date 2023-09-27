@@ -3,7 +3,7 @@
 
  - [[Literary Modernism Week 1]]
  - [[Literary Modernism Week 2]] 
- - 
+ - [[Literary Modernism Week 3]] 
 
 # Module Outline
 

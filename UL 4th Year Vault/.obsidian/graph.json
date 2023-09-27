@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 65437
       }
+    },
+    {
+      "query": "tag:#assignment",
+      "color": {
+        "a": 1,
+        "rgb": 16711803
+      }
     }
   ],
   "collapse-display": false,
@@ -63,10 +70,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.244791666666667,
+  "centerStrength": 0.369791666666667,
   "repelStrength": 17.7083333333333,
   "linkStrength": 0.958333333333333,
-  "linkDistance": 299,
-  "scale": 0.2640410414684371,
+  "linkDistance": 189,
+  "scale": 0.26404104146843815,
   "close": true
 }
