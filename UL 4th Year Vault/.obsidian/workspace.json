@@ -11,12 +11,16 @@
             "id": "34f39560958d54a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Country House in Ireland Week 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "84c00aaa1c3a5223",
+            "id": "7348131e5a202a7a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -157,23 +161,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84c00aaa1c3a5223",
+  "active": "7348131e5a202a7a",
   "lastOpenFiles": [
-    "UL 4th Year Vault/Timetable.md",
-    "UL 4th Year Vault/EH4007 - Literary Modernism.md",
-    "Country House in Ireland Week 2.md",
     "Literary Modernism Week 3.md",
-    "Week 2 To Do List.md",
-    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
-    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
-    "Empires, Nations and Union Week 2.md",
-    "Literary Modernism Week 2.md",
-    "Country House in Ireland Week 1.md",
-    "Week 1 To Do List.md",
-    "Creative Writing Week 2.md",
-    "UL 4th Year Vault/EH4037 - Creative Writing.md",
+    "Literary Modernism Week 3 Tutorial.md",
     "When the Power Went Out.md",
+    "Week 2 To Do List.md",
+    "UL 4th Year Vault/EH4007 - Literary Modernism.md",
+    "UL 4th Year Vault/Literary Modernism Week 1.md",
+    "Country House in Ireland Week 1.md",
+    "Creative Writing Week 2.md",
+    "Literary Modernism Week 2.md",
+    "0f16332331b10b73cc9c268837ac6d4d.pdf",
+    "UL 4th Year Vault/4th Year.md",
+    "Country House in Ireland Week 2.md",
+    "UL 4th Year Vault/EH4037 - Creative Writing.md",
+    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
+    "Empires, Nations and Union Week 2.md",
     "Creative Writing Week 1.md",
+    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
     "Empires, Nations and Union Week 1.md",
     "Francine Prose - Words-1.pdf",
     "UL 4th Year Vault/FYP.md",
@@ -184,14 +190,12 @@
     "Untitled.canvas",
     "Untitled.md",
     "Heart of Darkness.md",
-    "UL 4th Year Vault/Literary Modernism Week 1.md",
+    "UL 4th Year Vault/Timetable.md",
     "HI4168_Country_House_Ireland_outline_2023-4.pdf",
     "Psychological Data.md",
-    "Secondary Source Data.md",
     "Stephen King _Toolbox.pdf",
     "Francine Prose -Reading like a Writer-.pdf",
     "6c3aff42bef0c85f41a54b492e3affbb.pdf",
-    "HI4247 Module Outline Autumn 2023.pdf",
-    "0f16332331b10b73cc9c268837ac6d4d.pdf"
+    "HI4247 Module Outline Autumn 2023.pdf"
   ]
 }
