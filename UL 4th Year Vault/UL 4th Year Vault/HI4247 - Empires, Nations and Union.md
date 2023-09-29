@@ -4,6 +4,7 @@
 
 [[Empires, Nations and Union Week 1]]
 [[Empires, Nations and Union Week 2]]
+[[Empires, Nations and Union Week 3]] 
 
 
 # Module Outline

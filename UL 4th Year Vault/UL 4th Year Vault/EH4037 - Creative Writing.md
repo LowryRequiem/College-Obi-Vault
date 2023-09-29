@@ -4,6 +4,8 @@
 
 [[Creative Writing Week 1]]
 [[Creative Writing Week 2]]
+[[Creative Writing Week 3]] 
+
 
 # Module Outline
 
