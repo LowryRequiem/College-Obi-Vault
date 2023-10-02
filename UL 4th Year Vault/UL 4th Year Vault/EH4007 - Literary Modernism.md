@@ -4,6 +4,8 @@
  - [[Literary Modernism Week 1]]
  - [[Literary Modernism Week 2]] 
  - [[Literary Modernism Week 3]] 
+ - [[Literary Modernism Week 4]]
+ - 
 
 # Module Outline
 

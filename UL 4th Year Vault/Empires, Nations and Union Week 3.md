@@ -86,3 +86,23 @@ https://collections.theworldwar.org/argus/final/Portal/Default.aspx?lang=en-US
 This source gives insight into the ordinary peoples response to the war, and responses to loved ones being involved in the war. The writer of the letter, Miss Martha Mohler writes on the behalf of a Mrs. Moore, and discusses her sons who were involved in the war. They refer to it all as a terrible accident and write of how the boys' lungs were "destroyed by gas". Where they write, "you were there, you saw what the war did for our dear boys", it greatly shows how the war is viewed as devastation and how's its consequences were felt internationally and close to home.  
 
 In relation to the question of why it became known as the first world war, this letter presents an important aspect of how the effects of the war were felt across the world. With those detached from the war seeing the direct consequences of it through the losses of loved ones and family. 
+
+# Week 3 Tutorial
+
+## Insanity in Ireland
+
+Ireland had a huge asylum industry *rising insanity in 19th century*
+Ireland had its own list of acts of lunacy
+Little done about it at the time, *accepted as normality,* **inherited**
+
+**Calamity Avenue**
+
+### Servicemen in the Asylum System
+
+Originally admitted under the *Army Act 1881*
+Lunacy Ireland Act *1901*
+Error in Legislation - *Prisoner instead of person* **servicemen were actually treated then as criminal lunatic**
+Stigmatisation, pensions *due to the criminal lunacy thing, could not have applied for pension*, superannuation payments, predisposed to insanity, *Sinn Fein Asylums*
+**Amended in 1925 Defence Forces** (Temporary Provisions) **Act**
+
+
