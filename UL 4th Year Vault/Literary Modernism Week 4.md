@@ -161,3 +161,7 @@ Direct treatment of *the thing* **whether subjective or objective**
 To use absolutely *no word that does not* **contribute to the presentation**
 To compose poetry with attention to the musicality of *words and rhythm*
 to make anew, *new kind of poetry that* **reflects modern life**
+
+# Tutorial Notes
+
+![[Literary Modernism Week 3#T.S. Eliot and "The Love Song of J. Alfred Prufrock"]]

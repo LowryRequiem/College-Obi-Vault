@@ -1,11 +1,14 @@
 #modules
+# Assignments
 
+**Submission 1, Short Story,** *Monday 23rd October, Week 7*
+**Submission 2, Poetry** *Due Friday 1st December, Week 12*
 # Class Notes
 
 [[Creative Writing Week 1]]
 [[Creative Writing Week 2]]
 [[Creative Writing Week 3]] 
-
+[[Creative Writing Week 4]]
 
 # Module Outline
 

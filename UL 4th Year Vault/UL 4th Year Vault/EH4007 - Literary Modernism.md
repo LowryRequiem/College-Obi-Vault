@@ -1,11 +1,14 @@
 #modules
+# Assignments
+
+**40% Close Reading Assignment** *Monday 16th October, Week 6*
+**50% Final Essay** *Friday 8th December, Week 13*
 # Class Notes
 
  - [[Literary Modernism Week 1]]
  - [[Literary Modernism Week 2]] 
  - [[Literary Modernism Week 3]] 
- - [[Literary Modernism Week 4]]
- - 
+ - [[Literary Modernism Week 4]] 
 
 # Module Outline
 
@@ -14,3 +17,4 @@
 # Core Texts
 
 [[Heart of Darkness]] 
+[[The Love Song of J. Alfred Prufrock]] 

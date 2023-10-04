@@ -55,18 +55,25 @@
         "a": 1,
         "rgb": 65437
       }
+    },
+    {
+      "query": "tag:#assignment",
+      "color": {
+        "a": 1,
+        "rgb": 16711803
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.04427083333333,
+  "lineSizeMultiplier": 1.22291666666667,
   "collapse-forces": false,
-  "centerStrength": 0.244791666666667,
-  "repelStrength": 17.7083333333333,
-  "linkStrength": 0.958333333333333,
-  "linkDistance": 299,
-  "scale": 0.26700021195690965,
+  "centerStrength": 0.557291666666667,
+  "repelStrength": 19.5833333333333,
+  "linkStrength": 1,
+  "linkDistance": 86,
+  "scale": 0.37018102444974355,
   "close": true
 }
