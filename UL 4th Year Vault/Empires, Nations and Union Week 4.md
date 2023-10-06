@@ -114,3 +114,15 @@ Focus on the outbreak of WWII, defining moments in conflict
 Key issues include appeasement, alliances and military tactics, horrors of Holocaust
 Lasting impact
 *What is the turning point of WWII*
+
+# Tutorial Work
+
+### What do you believe was the main causes for the rise of Fascist ideology for the interwar period?
+
+### At what point was the outbreak of the Second World War inevitable?
+
+### What features, if any, of the interwar period have the most resonance with the present day?
+
+
+
+
