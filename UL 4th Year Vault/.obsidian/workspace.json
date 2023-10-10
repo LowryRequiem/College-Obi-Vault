@@ -4,11 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "cb2daf4470c87f7f",
+        "id": "00370318afccc88b",
         "type": "tabs",
         "children": [
           {
-            "id": "9fc79995a80c071d",
+            "id": "095e69f96efa910d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d41bd08023198e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HI4247 Primary Source Assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3f5abe116ce665a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9382024751261665",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,19 +46,48 @@
             }
           },
           {
-            "id": "410f4b0a2cb80cb9",
+            "id": "c8fa86507773a8b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literary Modernism Week 5.md",
+                "file": "UL 4th Year Vault/Timetable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0f317120f9fefe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HI4247 Primary Source Assignment Draft 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "387863ddae97a337",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb638ddf8234b55e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HI4247 Primary Source Assignment Draft 1 Prep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297
   },
   "right": {
     "id": "f67cc3fd73bd3c78",
@@ -94,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literary Modernism Week 5.md",
+                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literary Modernism Week 5.md",
+                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literary Modernism Week 5.md"
+                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md"
               }
             }
           },
@@ -165,34 +224,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "410f4b0a2cb80cb9",
+  "active": "9382024751261665",
   "lastOpenFiles": [
-    "UL 4th Year Vault/EH4007 - Literary Modernism.md",
+    "Secondary Source Data.md",
     "Literary Modernism Week 4.md",
-    "Literary Modernism Week 5.md",
-    "Empires, Nations and Union Week 4.md",
+    "UL 4th Year Vault/EH4007 - Literary Modernism.md",
+    "Literary Modernism Core Texts.md",
+    "HI4247 Primary Source Assignment Draft 1.md",
+    "HI4247 Primary Source Assignment Draft 1 Prep.md",
     "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
+    "HI4247 Primary Source Assignment.md",
+    "UL 4th Year Vault/Timetable.md",
+    "Pasted image 20231010191847.png",
+    "Pasted image 20231010191839.png",
+    "Pasted image 20231010183514.png",
+    "Pasted image 20231010182255.png",
+    "Imagist Poetry.md",
+    "2471818435fb7bb842c7f3df335a50ab 1.pdf",
+    "Pasted image 20231010141035.png",
+    "Pasted image 20231010141028.png",
+    "Pasted image 20231010141021.png",
+    "EH4007 Close Reading Assignment.md",
+    "UL 4th Year Vault/4th Year.md",
+    "EH4007 Close Reading Assignment, Second Draft.md",
+    "EH4007 Close Reading Assignment, First Draft.md",
+    "EH4007 Close Reading Assignment First Draft Prep.md",
+    "The Love Song of J. Alfred Prufrock.md",
+    "Heart of Darkness.md",
+    "f807e8b42ecc4df8bed4540b0662d499.pdf",
+    "UL 4th Year Vault/Literary Modernism Week 1.md",
+    "Empires, Nations and Union Week 4.md",
+    "Literary Modernism Week 5.md",
     "Creative Writing Week 4.md",
     "Creative Writing Week 3.md",
     "Literary Modernism Week 3.md",
-    "UL 4th Year Vault/4th Year.md",
-    "UL 4th Year Vault/Literary Modernism Week 1.md",
     "UL 4th Year Vault/EH4037 - Creative Writing.md",
-    "UL 4th Year Vault/Timetable.md",
     "Empires, Nations and Union Week 3.md",
     "Empires, Nations and Union Week 2.md",
-    "Empires, Nations and Union Week 1.md",
-    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
-    "Country House in Ireland Week 4.md",
-    "Country House in Ireland Week 3.md",
-    "Country House in Ireland Week 2.md",
-    "Country House in Ireland Week 1.md",
-    "Creative Writing Week 2.md",
-    "Creative Writing Week 1.md",
-    "The Love Song of J. Alfred Prufrock.md",
-    "Literary Modernism Week 2.md",
-    "Week 2 To Do List.md",
-    "Week 1 To Do List.md",
     "Colin Barrett-Diamonds.pdf",
     "2471818435fb7bb842c7f3df335a50ab.pdf",
     "Pasted image 20230928170633.png",
@@ -204,8 +272,6 @@
     "HI4168_Country_House_Ireland_outline_2023-4.pdf",
     "Stephen King _Toolbox.pdf",
     "Francine Prose -Reading like a Writer-.pdf",
-    "6c3aff42bef0c85f41a54b492e3affbb.pdf",
-    "HI4247 Module Outline Autumn 2023.pdf",
-    "0f16332331b10b73cc9c268837ac6d4d.pdf"
+    "6c3aff42bef0c85f41a54b492e3affbb.pdf"
   ]
 }

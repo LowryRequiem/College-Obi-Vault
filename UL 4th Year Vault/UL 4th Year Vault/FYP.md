@@ -88,3 +88,6 @@ The thesis aims to explore the evolution of horror media, comparing classic and 
 ## Timeline
 - **Start Date**: [Insert start date]
 - **Expected Completion Date**: [Insert completion date]
+
+
+![[FYP skeleton.docx]]

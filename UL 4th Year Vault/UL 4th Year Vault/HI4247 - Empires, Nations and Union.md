@@ -13,3 +13,6 @@
 
 # Module Outline
 ![[HI4247 Module Outline Autumn 2023.pdf]]
+# Assignments
+
+## [[HI4247 Primary Source Assignment]] 
