@@ -99,3 +99,26 @@ Case followed law passed by Polish government which made it *a criminal offence 
 ## Conclusion 
 
 The Second War had caused more devastation in Europe *with estimated death figures ranging from 35 to 60 million*
+
+# Tutorial Prep
+
+**Tutorial Reading:** Access the US Holocaust Memorial Museum website and consult with some of the survivor testimonies. Choose one that resonated with you and bring to class: [https://www.ushmm.org/remember](https://www.ushmm.org/remember)
+
+**Tutorial Question:** What would you point to as the turning point of the Second World War?
+
+https://collections.ushmm.org/search/catalog/irn505547
+
+## Notes
+
+Began with medical training and and was sent into the 405th Regiment, 102nd Infantry Division
+
+No idea of the atrocities of the war until they saw them
+
+Sent to Gardelegen Germany, Luftwaffe base nearby
+
+Found a collection of dead bodies in a barn, prisoners, wearing striped uniforms. Burned to death
+
+There were graves dug around the barn
+
+
+
