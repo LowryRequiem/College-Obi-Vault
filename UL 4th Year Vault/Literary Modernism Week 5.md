@@ -79,3 +79,22 @@ Repeated images and phrases *Fear no more the heat o' the sun*
 Psychological time *subjective and elastic, memory* **memories of Bourton, clear and meaningful**
 Linear time *forward progress, history, dates, clocks* **time passes whether we like it or not** Clarissa's father dead, Big Ben
 Monumental Time *How do external decisions around time shape the experience of living in time*
+
+# Tutorial Notes, Imagist Poetry
+
+## What are the principals of imagism in poetry?
+
+The *image* is the supreme mode of communication for the poet
+
+Musicality and its *primary impact*
+
+No *superfluous words* only what's *required*
+
+### An Image
+
+An *image* can present an **intellectual and emotional complex in an instant of time**
+
+It is *better to present one image in a lifetime* **than to produce voluminous works**
+
+
+

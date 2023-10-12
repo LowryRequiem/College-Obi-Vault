@@ -4,15 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "387863ddae97a337",
+        "id": "3f5abe116ce665a7",
         "type": "tabs",
         "children": [
           {
-            "id": "ca21a39ceefe9a7d",
+            "id": "9382024751261665",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "4b8bc103730e784a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "522fa6930495db76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Empires, Nations and Union Week 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80b5eeaa3494677e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Empires, Nations and Union Week 5.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -148,29 +184,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca21a39ceefe9a7d",
+  "active": "9382024751261665",
   "lastOpenFiles": [
-    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
-    "Empires, Nations and Union Week 5.md",
-    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
-    "Country House in Ireland Week 5.md",
-    "UL 4th Year Vault/EH4037 - Creative Writing.md",
     "Creative Writing Week 5.md",
-    "HI4247 Primary Source Assignment Draft 1 Prep.md",
-    "HI4247 Primary Source Assignment Draft 1.md",
-    "Country House in Ireland Week 4.md",
-    "UL 4th Year Vault/Timetable.md",
-    "Creative Writing Week 4.md",
-    "Secondary Source Data.md",
+    "Empires, Nations and Union Week 5.md",
+    "Country House in Ireland Week 5.md",
+    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
+    "Empires, Nations and Union Week 4.md",
     "Literary Modernism Week 4.md",
+    "Literary Modernism Week 5.md",
+    "Imagist Poetry.md",
+    "Secondary Source Data.md",
     "UL 4th Year Vault/EH4007 - Literary Modernism.md",
     "Literary Modernism Core Texts.md",
+    "HI4247 Primary Source Assignment Draft 1.md",
+    "HI4247 Primary Source Assignment Draft 1 Prep.md",
     "HI4247 Primary Source Assignment.md",
+    "UL 4th Year Vault/Timetable.md",
     "Pasted image 20231010191847.png",
     "Pasted image 20231010191839.png",
     "Pasted image 20231010183514.png",
     "Pasted image 20231010182255.png",
-    "Imagist Poetry.md",
     "2471818435fb7bb842c7f3df335a50ab 1.pdf",
     "Pasted image 20231010141035.png",
     "Pasted image 20231010141028.png",
@@ -184,7 +218,9 @@
     "Heart of Darkness.md",
     "f807e8b42ecc4df8bed4540b0662d499.pdf",
     "UL 4th Year Vault/Literary Modernism Week 1.md",
-    "Empires, Nations and Union Week 4.md",
+    "Creative Writing Week 4.md",
+    "Creative Writing Week 3.md",
+    "Literary Modernism Week 3.md",
     "Colin Barrett-Diamonds.pdf",
     "2471818435fb7bb842c7f3df335a50ab.pdf",
     "Pasted image 20230928170633.png",
