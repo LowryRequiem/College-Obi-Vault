@@ -4,87 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "00370318afccc88b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "095e69f96efa910d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d41bd08023198e12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HI4247 Primary Source Assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3f5abe116ce665a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9382024751261665",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c8fa86507773a8b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UL 4th Year Vault/Timetable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0f317120f9fefe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HI4247 Primary Source Assignment Draft 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "387863ddae97a337",
         "type": "tabs",
         "children": [
           {
-            "id": "bb638ddf8234b55e",
+            "id": "ca21a39ceefe9a7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HI4247 Primary Source Assignment Draft 1 Prep.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -153,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md"
-              }
+              "state": {}
             }
           },
           {
@@ -224,17 +148,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9382024751261665",
+  "active": "ca21a39ceefe9a7d",
   "lastOpenFiles": [
+    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
+    "Empires, Nations and Union Week 5.md",
+    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
+    "Country House in Ireland Week 5.md",
+    "UL 4th Year Vault/EH4037 - Creative Writing.md",
+    "Creative Writing Week 5.md",
+    "HI4247 Primary Source Assignment Draft 1 Prep.md",
+    "HI4247 Primary Source Assignment Draft 1.md",
+    "Country House in Ireland Week 4.md",
+    "UL 4th Year Vault/Timetable.md",
+    "Creative Writing Week 4.md",
     "Secondary Source Data.md",
     "Literary Modernism Week 4.md",
     "UL 4th Year Vault/EH4007 - Literary Modernism.md",
     "Literary Modernism Core Texts.md",
-    "HI4247 Primary Source Assignment Draft 1.md",
-    "HI4247 Primary Source Assignment Draft 1 Prep.md",
-    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
     "HI4247 Primary Source Assignment.md",
-    "UL 4th Year Vault/Timetable.md",
     "Pasted image 20231010191847.png",
     "Pasted image 20231010191839.png",
     "Pasted image 20231010183514.png",
@@ -254,13 +185,6 @@
     "f807e8b42ecc4df8bed4540b0662d499.pdf",
     "UL 4th Year Vault/Literary Modernism Week 1.md",
     "Empires, Nations and Union Week 4.md",
-    "Literary Modernism Week 5.md",
-    "Creative Writing Week 4.md",
-    "Creative Writing Week 3.md",
-    "Literary Modernism Week 3.md",
-    "UL 4th Year Vault/EH4037 - Creative Writing.md",
-    "Empires, Nations and Union Week 3.md",
-    "Empires, Nations and Union Week 2.md",
     "Colin Barrett-Diamonds.pdf",
     "2471818435fb7bb842c7f3df335a50ab.pdf",
     "Pasted image 20230928170633.png",
