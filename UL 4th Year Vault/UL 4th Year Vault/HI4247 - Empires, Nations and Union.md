@@ -10,7 +10,7 @@
 [[Empires, Nations and Union Week 2]]
 [[Empires, Nations and Union Week 3]] 
 [[Empires, Nations and Union Week 4]] 
-[[Empires, Nations and Union Week 5]]  
+[[Empires, Nations and Union Week 5]] 
 
 # Module Outline
 ![[HI4247 Module Outline Autumn 2023.pdf]]
