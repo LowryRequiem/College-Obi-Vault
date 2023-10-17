@@ -9,7 +9,7 @@
 
 **Podcast** *Anytime before the 1st*
 
-**40% Close Reading Assignment** _Monday 16th October, Week 6_ **Literary Modernism**
+~~**40% Close Reading Assignment** _Monday 16th October, Week 6_ **Literary Modernism**~~
 
 **Submission 1, Short Story,** _Monday 23rd October, Week 7_ **Creative Writing**
 **Primary Source Assignment** _Due Friday 27th October, Week 7_ **Empires, Nations, Union**
@@ -28,3 +28,6 @@
 ![[Modules]] 
 # Timetable 
 ![[Timetable]]  
+# Referencing Guides
+
+## [[English MLA Referencing Guide]] 

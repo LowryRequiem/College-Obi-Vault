@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "387863ddae97a337",
+        "id": "59129b145bfa3b62",
         "type": "tabs",
         "children": [
           {
-            "id": "ca21a39ceefe9a7d",
+            "id": "71889b1e940b96cd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "d6eaa394dc075ced",
+            "id": "18cf0836bb105c0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,31 +28,54 @@
             }
           },
           {
-            "id": "02b0a3cf9ebeba58",
+            "id": "985bc492833fa879",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a3307bdd22e0634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Empires, Nations and Union Week 5.md",
+                "file": "UL 4th Year Vault/EH4037 - Creative Writing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "4492024770b07694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa0e0e6a3de1125c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EH4037 Short Story Assignment Draft 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3387731f22a7795f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bcc5d6993a78b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EH4037 Short Story Assignment Draft 1 Prep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,43 +208,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02b0a3cf9ebeba58",
+  "active": "71889b1e940b96cd",
   "lastOpenFiles": [
-    "UL 4th Year Vault/4th Year.md",
-    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
-    "Empires, Nations and Union Week 5.md",
-    "Country House in Ireland Week 5.md",
-    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
+    "EH4037 Short Story Assignment Draft 1.md",
+    "EH4037 Short Story Assignment Draft 1 Prep.md",
     "UL 4th Year Vault/EH4037 - Creative Writing.md",
-    "Creative Writing Week 5.md",
+    "UL 4th Year Vault/4th Year.md",
+    "EH4037 Short Story Assignment.md",
+    "When the Power Went Out.md",
+    "UL 4th Year Vault/Timetable.md",
+    "HI4247 Primary Source Assignment Draft 2.md",
+    "HI4247 Primary Source Assignment Draft 2 Prep.md",
     "HI4247 Primary Source Assignment Draft 1 Prep.md",
     "HI4247 Primary Source Assignment Draft 1.md",
-    "Country House in Ireland Week 4.md",
-    "UL 4th Year Vault/Timetable.md",
-    "Creative Writing Week 4.md",
-    "Secondary Source Data.md",
-    "Literary Modernism Week 4.md",
+    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
+    "EH4007 Close Reading Assignment, First Draft.md",
+    "HI4247 Primary Source Assignment.md",
+    "Empires, Nations and Union Week 5.md",
+    "EH4007 Close Reading Assignment, Second Draft.md",
+    "Lowry, Aaron, 20263775. EH4007 Close Reading Assignment..docx",
+    "English MLA Referencing Guide.md",
+    "English Student Handbook 2023-24.pdf",
+    "EH4007 Close Reading Assignment.md",
     "UL 4th Year Vault/EH4007 - Literary Modernism.md",
     "Literary Modernism Core Texts.md",
-    "HI4247 Primary Source Assignment.md",
+    "Literary Modernism Week 5.md",
+    "Creative Writing Week 5.md",
+    "Kevin Barry Breakfast Wine.pdf",
+    "Creative Writing Week 4.md",
+    "HI4168 Archive Blog Post Assignment Draft 1 Prep.md",
+    "HI4168 Archive Blog Post Assignment.md",
+    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
     "Pasted image 20231010191847.png",
     "Pasted image 20231010191839.png",
     "Pasted image 20231010183514.png",
     "Pasted image 20231010182255.png",
-    "Imagist Poetry.md",
     "2471818435fb7bb842c7f3df335a50ab 1.pdf",
     "Pasted image 20231010141035.png",
     "Pasted image 20231010141028.png",
     "Pasted image 20231010141021.png",
-    "EH4007 Close Reading Assignment.md",
-    "EH4007 Close Reading Assignment, Second Draft.md",
-    "EH4007 Close Reading Assignment, First Draft.md",
-    "EH4007 Close Reading Assignment First Draft Prep.md",
-    "The Love Song of J. Alfred Prufrock.md",
-    "Heart of Darkness.md",
     "f807e8b42ecc4df8bed4540b0662d499.pdf",
-    "UL 4th Year Vault/Literary Modernism Week 1.md",
-    "Empires, Nations and Union Week 4.md",
     "Colin Barrett-Diamonds.pdf",
     "2471818435fb7bb842c7f3df335a50ab.pdf",
     "Pasted image 20230928170633.png",
@@ -234,9 +256,6 @@
     "6- Edna O Brien, The Rug.pdf",
     "Francine Prose - Words-1.pdf",
     "Untitled.canvas",
-    "HI4168_Country_House_Ireland_outline_2023-4.pdf",
-    "Stephen King _Toolbox.pdf",
-    "Francine Prose -Reading like a Writer-.pdf",
-    "6c3aff42bef0c85f41a54b492e3affbb.pdf"
+    "HI4168_Country_House_Ireland_outline_2023-4.pdf"
   ]
 }
