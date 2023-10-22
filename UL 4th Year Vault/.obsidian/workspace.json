@@ -4,75 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "59129b145bfa3b62",
+        "id": "db312ca9fafe440a",
         "type": "tabs",
         "children": [
           {
-            "id": "71889b1e940b96cd",
+            "id": "b208aa9c787e5937",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "18cf0836bb105c0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UL 4th Year Vault/4th Year.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "985bc492833fa879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UL 4th Year Vault/EH4037 - Creative Writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4492024770b07694",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa0e0e6a3de1125c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EH4037 Short Story Assignment Draft 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3387731f22a7795f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5bcc5d6993a78b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EH4037 Short Story Assignment Draft 1 Prep.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -125,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 200
   },
   "right": {
     "id": "f67cc3fd73bd3c78",
@@ -208,37 +148,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71889b1e940b96cd",
+  "active": "b208aa9c787e5937",
   "lastOpenFiles": [
-    "EH4037 Short Story Assignment Draft 1.md",
+    "HI4168 Archive Blog Post Assignment Draft 1 Prep.md",
+    "HI4168 Archive Blog Post Assignment Draft 1.md",
+    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
+    "Country House in Ireland Week 5.md",
+    "HI4168 Archive Blog Post Assignment.md",
+    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
+    "Empires, Nations and Union Week 6.md",
+    "Empires, Nations and Union Week 3.md",
+    "UL 4th Year Vault/Timetable.md",
+    "UL 4th Year Vault/4th Year.md",
     "EH4037 Short Story Assignment Draft 1 Prep.md",
     "UL 4th Year Vault/EH4037 - Creative Writing.md",
-    "UL 4th Year Vault/4th Year.md",
-    "EH4037 Short Story Assignment.md",
-    "When the Power Went Out.md",
-    "UL 4th Year Vault/Timetable.md",
+    "EH4037 Short Story Assignment Draft 1.md",
+    "Lowry, Aaron, 20263775. EH4007 Close Reading Assignment..docx",
+    "Kevin Barry Breakfast Wine.pdf",
     "HI4247 Primary Source Assignment Draft 2.md",
     "HI4247 Primary Source Assignment Draft 2 Prep.md",
+    "HI4247 Podcast Assignment.md",
+    "English Student Handbook 2023-24.pdf",
+    "English MLA Referencing Guide.md",
+    "EH4037 Short Story Assignment.md",
+    "Empires, Nations and Union Week 5.md",
+    "Creative Writing Week 5.md",
     "HI4247 Primary Source Assignment Draft 1 Prep.md",
     "HI4247 Primary Source Assignment Draft 1.md",
-    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
-    "EH4007 Close Reading Assignment, First Draft.md",
-    "HI4247 Primary Source Assignment.md",
-    "Empires, Nations and Union Week 5.md",
-    "EH4007 Close Reading Assignment, Second Draft.md",
-    "Lowry, Aaron, 20263775. EH4007 Close Reading Assignment..docx",
-    "English MLA Referencing Guide.md",
-    "English Student Handbook 2023-24.pdf",
-    "EH4007 Close Reading Assignment.md",
-    "UL 4th Year Vault/EH4007 - Literary Modernism.md",
-    "Literary Modernism Core Texts.md",
-    "Literary Modernism Week 5.md",
-    "Creative Writing Week 5.md",
-    "Kevin Barry Breakfast Wine.pdf",
+    "Country House in Ireland Week 4.md",
     "Creative Writing Week 4.md",
-    "HI4168 Archive Blog Post Assignment Draft 1 Prep.md",
-    "HI4168 Archive Blog Post Assignment.md",
-    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
+    "Secondary Source Data.md",
+    "Literary Modernism Week 4.md",
     "Pasted image 20231010191847.png",
     "Pasted image 20231010191839.png",
     "Pasted image 20231010183514.png",
