@@ -1,4 +1,26 @@
 #UL
+
+# Week Dashboard
+## Week 7
+
+Reading week was last week, some assignments and catch up due then this week
+### Creative Writing
+Short story postponed for a week, get it finished, *no class this week* **catch up on reading reports**
+### Literary Modernism
+No assignment due, *this weeks about modernist short stories* **will need to read some Mrs Dalloway for the tutorial**
+### Empires, Nations, Union
+Primary source assignment due Friday *this weeks about the cold war and Cuban missile crisis* **browse JFK records about cold war policy, choose document and answer question for tutorial class**
+### Country Houses
+Blog post draft to be handed in Monday, *this week is on twilight of ascendency* **check class plan when its uploaded tomorrow**
+## Priorities
+
+- **Getting short story finished and perfected**
+- ~~*Readings reports*~~
+- Read Mrs Dalloway
+- **Finish Primary Source Assignment for Friday**
+- *Prep for Fridays tutorial*
+- ~~**Blog post ready for Monday**~~
+- Check country house class plan
 # Assignments
 
 ![[EH4007 - Literary Modernism#Assignments]]

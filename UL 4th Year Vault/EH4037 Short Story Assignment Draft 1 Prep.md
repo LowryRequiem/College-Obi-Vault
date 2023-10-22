@@ -25,3 +25,5 @@ The short story follows him as he finds a functioning camera, and despite it's w
 *The Reality* during the chaos of the attack, protagonists father finds the camera and questions his son as the camera is broken, revealing the protagonists madness and leaving a bitter, hopeless end to the story
 
 # [[EH4037 Short Story Assignment Draft 1]] 
+# [[EH4037 Short Story Assignment Draft 2]] 
+# [[EH4037 Short Story Assignment Draft 2 Prep]] 

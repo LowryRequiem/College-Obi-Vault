@@ -10,6 +10,7 @@
 [[Creative Writing Week 3]] 
 [[Creative Writing Week 4]]
 [[Creative Writing Week 5]] 
+[[Creative Writing Week 6]] 
 
 # Module Outline
 

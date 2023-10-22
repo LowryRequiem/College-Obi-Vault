@@ -12,6 +12,7 @@
 [[Country House in Ireland Week 3]]
 [[Country House in Ireland Week 4]]
 [[Country House in Ireland Week 5]] 
+[[Country House in Ireland Week 6]] 
 # Module Outline
 
 ![[HI4168_Country_House_Ireland_outline_2023-4.pdf]]
