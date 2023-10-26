@@ -1,4 +1,4 @@
-#casestudies 
+#assignment 
 
 It's been a year and three days since the power went out. I think. It's been harder to keep track of the further we get from outage day. Dad likes to keep count, says it reminds him that time is, in fact still moving, despite all the clocks hanging dead still. I eyed the dusty clock which hung crooked in the corner of what was once Mam's study, it was as lifeless as anything else in the room. I wondered then if the clocks ever worked again, if we'd go by their old time or set a new one. The thought quickly faded away as the thuds of Dad's feet approached the open door. Hastily, I slid the camcorder I was fiddling with behind me and looked innocently towards him as he appeared in the doorway. My heart racing. He looked fed up.
 "What're you doing in her study again?" he spoke with a shred of disappointment. I answered with an undetermined shrug. He released a heavy sigh which was nearing a grunt. "I need you to head to town today, we need to stock more turf- oh and candles don't forget candles," he snapped his fingers repeatedly at this eureka moment.
