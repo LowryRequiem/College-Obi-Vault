@@ -11,7 +11,8 @@
 [[Creative Writing Week 4]]
 [[Creative Writing Week 5]] 
 [[Creative Writing Week 6]] 
-
+[[Creative Writing Week 7]] 
+[[Creative Writing Week 8]] 
 # Module Outline
 
 ![[6c3aff42bef0c85f41a54b492e3affbb.pdf]]
