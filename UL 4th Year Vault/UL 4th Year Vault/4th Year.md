@@ -18,7 +18,7 @@ Blog post draft to be handed in Monday, *this week is on twilight of ascendency*
 - ~~*Readings reports*~~
 - ~~Read Mrs Dalloway~~
 - ~~**Finish Primary Source Assignment for Friday**~~
-- *Prep for Fridays tutorial*
+- ~~*Prep for Fridays tutorial*~~
 - ~~**Blog post ready for Monday**~~
 - ~~Check country house class plan~~
 # Assignments
