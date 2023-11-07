@@ -12,7 +12,7 @@ No assignment due, *this weeks about modernist short stories* **will need to rea
 Primary source assignment due Friday *this weeks about the cold war and Cuban missile crisis* **browse JFK records about cold war policy, choose document and answer question for tutorial class**
 ### Country Houses
 Blog post draft to be handed in Monday, *this week is on twilight of ascendency* **check class plan when its uploaded tomorrow**
-## Priorities
+## Week 7 Priorities
 
 - **Getting short story finished and perfected**
 - ~~*Readings reports*~~
@@ -21,6 +21,16 @@ Blog post draft to be handed in Monday, *this week is on twilight of ascendency*
 - ~~*Prep for Fridays tutorial*~~
 - ~~**Blog post ready for Monday**~~
 - ~~Check country house class plan~~
+
+## Week 9
+### Literary Modernism
+- ~~Harlem Renaissance guest lecture, catch up on poetry for tutorial~~
+### Creative Writing
+- Week 8 ~~and 9 Reading Reports,~~ work on poetry
+### Empires, Nations and Union
+- Lecture + prep question for tutorial
+### Country House Ireland
+- Week 9 prep, prepare project proposal for Friday
 # Assignments
 
 ![[EH4007 - Literary Modernism#Assignments]]
@@ -33,10 +43,10 @@ Blog post draft to be handed in Monday, *this week is on twilight of ascendency*
 
 ~~**40% Close Reading Assignment** _Monday 16th October, Week 6_ **Literary Modernism**~~
 
-**Submission 1, Short Story,** _Monday 23rd October, Week 7_ **Creative Writing**
-**Primary Source Assignment** _Due Friday 27th October, Week 7_ **Empires, Nations, Union**
+~~**Submission 1, Short Story,** _Monday 23rd October, Week 7_ **Creative Writing**~~
+~~**Primary Source Assignment** _Due Friday 27th October, Week 7_ **Empires, Nations, Union**~~
 
-**Archive Assignment, Blog Post** _Friday 3rd November, Week 8_ **Country House**
+~~**Archive Assignment, Blog Post** _Friday 3rd November, Week 8_ **Country House**~~
 **Project Proposal** _Friday 10th November, Week 9_ **Country House**
 
 **Presentation** _Friday, 24th November, Week 11_ **Country House**

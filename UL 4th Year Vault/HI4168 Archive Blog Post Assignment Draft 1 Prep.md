@@ -7,6 +7,7 @@ https://specialcollections.ul.ie/projects/armstrong-collection/
 # Primary Sources
 
 ## Hand Journal
+Hardback leather bound pocket diary kept during service in the First World War, showing a day on a page. The daily entries give an in-depth account of his activities and the progress of the Battle of Gallipoli. Note that the December entries relate to 1914. The inside pocket contains inserts of an unspecified list of accounts and a ticket from Calais to London.
 
 Green leather bound pocket sized hand journal
 Collins Handy diary 1915
@@ -46,6 +47,8 @@ goes into detail onto some of the fighting at gully beach and the casualties
 Got the H.M.S Imogen battleship to Athens then to Kifiscia, to Suvla bay
 
 ## Photo Album
+
+Leather-bound hardback photograph album. Contains images of soldiers, officers, prisoners and military activities on land and at sea in Port Said, France, Gallipoli, Athens and Suvla Bay. 7
 
 The photo album has a red, leatherbound cover
 

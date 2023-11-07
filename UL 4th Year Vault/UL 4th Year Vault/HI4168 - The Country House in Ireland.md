@@ -22,3 +22,7 @@
 # Assignments
 
 ## [[HI4168 Archive Blog Post Assignment]] 
+
+## [[HI4168 Project Assignment]] 
+
+## [[HI4168 Presentation]] 
