@@ -28,7 +28,7 @@ Blog post draft to be handed in Monday, *this week is on twilight of ascendency*
 ### Creative Writing
 - Week 8 ~~and 9 Reading Reports,~~ work on poetry
 ### Empires, Nations and Union
-- Lecture + prep question for tutorial
+- ~~Lecture + prep~~ question for tutorial
 ### Country House Ireland
 - Week 9 prep, prepare project proposal for Friday
 # Assignments
