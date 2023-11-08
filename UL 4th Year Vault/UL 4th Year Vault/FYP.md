@@ -4,6 +4,8 @@
 
 The horror genre, with its intrinsic capacity to elicit fear and fascination, has *evolved alongside advancements in media and technology*, profoundly **impacting both its presentation and its effects on the human psyche**. This thesis embarks on a *comprehensive exploration of horror media*, delving into both classic and contemporary works, to analyse how the **genre employs and subverts various mediums to unsettle and influence individuals' psychological states.** 
 
+## [[FYP Draft 1 Prep]] 
+
 # Thesis Plan: "The Shifting Horrorscape: A Comparative Analysis of Horror Media Across Eras and Mediums"
 
 ## Overview
