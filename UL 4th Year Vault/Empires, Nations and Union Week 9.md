@@ -126,3 +126,8 @@ These underappreciated trend's are *critical in understanding the development of
 The increased interest in humanities and social sciences *in universities resulted in a continued questioning of* **state authority and bureaucracy throughout the twentieth century**
 
 People didn't have time during the war to question governments and leaders, but cut to the 60s and so on when people can think more ideologically about their modern societies
+
+# Tutorial Work
+
+## Resistance to Vietnam
+
