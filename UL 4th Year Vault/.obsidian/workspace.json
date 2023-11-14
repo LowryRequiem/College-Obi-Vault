@@ -4,42 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "368ac3f9251cf89c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "776023e386de1b28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HI4168 Project Assignment Draft 1 Prep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a2af5dbea3115967",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "05637301d0bbf35b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HI4168 Project Assignment Draft 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "2d56d7d2b9a8af73",
         "type": "tabs",
         "children": [
@@ -47,12 +11,8 @@
             "id": "3a94fee5a71c6c78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HI4168 Project Assignment Draft 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HI4168 Project Assignment Draft 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HI4168 Project Assignment Draft 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HI4168 Project Assignment Draft 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,15 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05637301d0bbf35b",
+  "active": "3a94fee5a71c6c78",
   "lastOpenFiles": [
+    "HI4168 Project Assignment Draft 1 Prep.md",
     "HI4168 Project Assignment Draft 1.md",
     "HI4168 Project Assignment Draft 2.md",
-    "HI4168 Project Assignment Draft 1 Prep.md",
+    "UL 4th Year Vault/4th Year.md",
     "HI4168 Project Assignment.md",
     "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
     "Country House in Ireland Week 9.md",
-    "UL 4th Year Vault/4th Year.md",
     "UL 4th Year Vault/Timetable.md",
     "Empires, Nations and Union Week 9.md",
     "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
