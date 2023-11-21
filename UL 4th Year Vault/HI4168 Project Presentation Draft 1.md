@@ -66,6 +66,23 @@ The house was initially described as having a grand neatness but very little in 
 ## Slide 2.4
 
 Post Cootes acquisitions, Patrician brothers, Hotel *legacy and effect on culture and tourism as a result of the class stuff*
+
+So after much trial and error, the Cootes managed to raise Ballyfin to the luxurious standard we associate it with. The Cootes have left not much outside material legacy when analysing their life in Ballyfin. Sir Charles was occupied with the business of handling a landed estate. They did throw large house parties. Charles involvement in parliment kept them in the loop at London, and their travels too acted as a reminder of their position.
+King of Rome mantle clock, made for Napoleon I, the large seascape of Zuider Zee by EW Cooke. 
+
+An extensive fire in 1846, 1848 famine took their only daughter Caroline de Massingy. As a result of both these occurances, Lady Caroline had the Gold Room expensivly redecorated while Sir Chalres erected a great stone tower overlooking the demesne. 
+
+After the famine, Coote would aquire the rest of Wellsely Poles estate garnering anohter 8000 acres of land.
+
+Sir Charles Coote is described as a committed improver, of both his demesne and his estates. When writer Thomas Carlyle proposed coming to Ireland Charles Coote was recommended to him as one of only six "really good" landlords
+
+In his will, almost anticipating the neglect delivered by the next Sir Charles Coote, who barely visited, Coote had empowered his trustees in the event of negleect to take possession of the property and rests so as to ensure that the 'mansion house, demesne gardens, pleasure grounds, out offices and other appurtenances' were maintained in the same state as "have been kept up by me"
+
+The hierarchy of servants within Ballyfin was dictated based on gender and role, with the butler George Clements at the beginning of the 1900s looming as one of the larger figures at Ballyfin, with his approval sought for all household matters.
+
+In the period between 1816 and 1830 there were approx 30 people on the Ballyfin payroll, which amounted anually to around 750 pound. Half were female, half were male. The paternal interest of the Cootes over this wider family was repaid in mutual loyalty and friendship, with many of members of staff acknowledged in legacies, and all handsomly rewarded in his will. 
+
+two Algernons ran the place after Charles Coote 
 # Conclusion
 
 ## Slide 3.1
@@ -73,7 +90,33 @@ Post Cootes acquisitions, Patrician brothers, Hotel *legacy and effect on cultur
 How the Cootes endeavours of the Ballyfin house has stood as a legacy landmark in Laois, it demonstrates itself as a bastion of restoration, tourism and a landmark of heritage in Laois
 
 How people working at Ballyfin house and stuff demonstrates that penetration of class barrier and allows an affiliation their not often seen, people from Laois proud of stuff like that
+
+-
+
+After the death of the 12th Baronet in 1920, his son Ralph began to process of withdrawel. Tom Keegan was installed to caretake and safeguard the place throughout the era of sectarian disorder and civil war, Keegan had good sinn fein credentiallys and the estate survived. 
+
+Ralph insisted that the demesne be kept intact at any cost, stating he'd rather let the place fall down before it be split up. and thus the entire demesne was passed to the Patrician brothers rather than the Irish Land Commission. three years later, all remaining tenanted lands were sold, and the cootes 300 year tenure in queens county came to an orderly end, precicsley 100 years after the 9th baronet had rebuilt ballyfin for residence.
+
+The Patrician brothers immedialty set out to establish classrooms and dormitories. In the early days of the school the gardens were cultivated the lands were grazed etc. but as economic demands increased, expanse on the site began to intrude. The brothers were anwsering the demands placed on them of the needs of a larger school while preserving every facet of Ballyfin
+
+It was in 2001 that the Patrician brothers announced their intention to close Ballyfin College. Three decades of slow decline had placed the house in a state of endangerment as it was just too much to upkeep. 
+
+A fund raising campaign by the Irish Georgian society had highlighted the plight of the house but it was clear only an act of heroism could save the place
+
+then in 2002, Chicago based couple Fred and Kay Krehbiel became the new owners of Ballyfin, and collaborated with Jim Reynolds, to restore the place with the intention of creating a luxury hotel with the primary focus being the restoration of the place. 
+
+Advisory committee; Brother Maurice Murphy who had done what he could previously despite the needs of the school, Sir Christopher Coote, 15th Baronet and gret great great grandson of the builders of Ballyfin - Desmond Fitzgerald, Knight of Glin and President of the Irish Georgian soc, and several others who had interest in the preservation of the house. 
+
+They set about re establishing the integrity of the house
+
+among the team of architects was John J. O Connell who had led the restoration of Fota in Cork, another Morrisson House. 
+
+Restoration complete June 2010
 # Bibliography
 
 ## Slide 4.1
 
+UL Special coll
+David flemming book
+Ballyfin a restoration of demesne
+The Coote papers
