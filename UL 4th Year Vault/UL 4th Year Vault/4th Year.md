@@ -47,7 +47,7 @@ Blog post draft to be handed in Monday, *this week is on twilight of ascendency*
 ~~**Primary Source Assignment** _Due Friday 27th October, Week 7_ **Empires, Nations, Union**~~
 
 ~~**Archive Assignment, Blog Post** _Friday 3rd November, Week 8_ **Country House**~~
-**Project Proposal** _Friday 10th November, Week 9_ **Country House**
+~~**Project Proposal** _Friday 10th November, Week 9_ **Country House**~~
 
 **Presentation** _Friday, 24th November, Week 11_ **Country House**
 

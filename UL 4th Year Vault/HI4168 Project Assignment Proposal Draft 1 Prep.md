@@ -20,4 +20,8 @@ P3 -
 *Coote Collection*
 https://specialcollections.ul.ie/projects/coote/
 
-## [[HI4168 Project Assignment Draft 2]] 
+*Eyre Coote and Charles Coote Correspondence*
+https://www.jstor.org/stable/20519928?casa_token=wB4Fj6isg9cAAAAA%3At88SNZKC2B7yPtCHIACRfB89DQFGhHRpg12ZWjEknHDenfk4NmMnqYZuLdH-Gfzke98cxMZUTTScAhztyA8y57I_Fz81GEyL7WlDIaC-NFubqK6zDVQ&seq=2
+
+
+## [[HI4168 Project Assignment Proposal Draft 2]] 

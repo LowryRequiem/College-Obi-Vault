@@ -4,15 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "2d56d7d2b9a8af73",
+        "id": "136c2e7a0afecde4",
         "type": "tabs",
+        "dimension": 18.99335232668566,
         "children": [
           {
-            "id": "3a94fee5a71c6c78",
+            "id": "d3e3d5faaddea9b1",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "dc50a611d1b43c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HI4168 Project Assignment Proposal Draft 1 Prep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d1449abec51ddbb2",
+        "type": "tabs",
+        "dimension": 47.673314339981005,
+        "children": [
+          {
+            "id": "6d23754d761c3daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HI4168 Project Presentation Draft 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9fbc979c1cbe31f3",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "7996e5ad25592830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HI4168 Project Presentation Draft 1 Prep.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HI4168 Project Presentation Draft 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HI4168 Project Presentation Draft 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HI4168 Project Presentation Draft 1.md"
+              }
             }
           },
           {
@@ -148,13 +204,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a94fee5a71c6c78",
+  "active": "6d23754d761c3daa",
   "lastOpenFiles": [
-    "HI4168 Project Assignment Draft 1 Prep.md",
-    "HI4168 Project Assignment Draft 1.md",
-    "HI4168 Project Assignment Draft 2.md",
+    "HI4168 Project Assignment Proposal Draft 1 Prep.md",
+    "HI4168 Project Presentation Draft 1.md",
     "UL 4th Year Vault/4th Year.md",
+    "HI4168 Project Presentation Draft 1 Prep.md",
     "HI4168 Project Assignment.md",
+    "HI4168 Presentation.md",
+    "HI4168 Project Assignment Proposal Draft 1.md",
+    "HI4168 Project Assignment Proposal Draft 2.md",
     "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
     "Country House in Ireland Week 9.md",
     "UL 4th Year Vault/Timetable.md",
@@ -169,14 +228,11 @@
     "FYP skeleton.pdf",
     "Literary Modernism Week 9.md",
     "HI4247 Final Project Assignment.md",
-    "HI4168 Presentation.md",
     "EH4037 Poetry Assignment.md",
     "Creative Writing Week 9.md",
     "Creative Writing Week 8.md",
     "UL 4th Year Vault/EH4037 - Creative Writing.md",
     "Creative Writing Week 7.md",
-    "Country House in Ireland Week 7.md",
-    "Empires, Nations and Union Week 7.md",
     "Undergrad Booklet 2023.24 - Copy.pdf",
     "Lowry, Aaron, 20263775. EH4007 Close Reading Assignment..docx",
     "Kevin Barry Breakfast Wine.pdf",

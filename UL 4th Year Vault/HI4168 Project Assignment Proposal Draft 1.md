@@ -20,4 +20,4 @@ The Coote papers themselves contain a variety of deeds, letters and administrati
 
 Ultimately, this project sets out to analyse the Cootes history in relation to both Ballyfin house and estate and the lands owned and managed by the Cootes as shown throughout their papers archive. The aim of doing this is to see how a family like the Cootes, granted into the hierarchy of Irish landowners through service to the crown, managed their estates and what this says for their relation with class relations at the time. This will allow us to explore the effect of planted areas such as Laois on the locality and development over these centuries, and how the influence of Britain is demonstrated through the land ownerships granted to families such as the Cootes.
 
-## [[HI4168 Project Assignment Draft 2]] 
+## [[HI4168 Project Assignment Proposal Draft 2]] 
