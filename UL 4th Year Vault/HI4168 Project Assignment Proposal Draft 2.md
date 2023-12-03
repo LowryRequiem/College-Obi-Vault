@@ -16,3 +16,4 @@ Evidence of the Cootes estate management of Mountrath, Maryborough and other sur
 
 Ultimately, this projects hopes to analyse the Cootes involvements in both the Ballyfin estate, and the lands in and surrounding Mountrath and Maryborough. It is with the intention that this analysis will help shed light and identify the importance of these external influences on the development of Irish towns and estates, and will reveal insight on how these developments affect the locality and the legacy in and surrounding these lands.  
 
+# [[HI4168 Project Draft 1 Prep]] 

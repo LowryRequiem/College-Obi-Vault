@@ -31,3 +31,7 @@ During World War II, Nazi rallies and their connection to propaganda and film pl
     - After World War II, many of the propaganda films were seen as controversial and were subjected to censorship or banned due to their association with the Nazi regime and its atrocities.
 
 In summary, Nazi rallies during World War II were powerful propaganda tools that allowed the regime to promote its ideology, control public perception, and demonstrate its strength. Film played a central role in capturing and amplifying the impact of these events, even though their legacy remains closely tied to the dark history of the Nazi regime.
+
+## [[HI4247 Podcast Assignment Draft 1 Prep]] 
+
+## [[HI4247 Podcast Assignment Draft 1]] 

@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "136c2e7a0afecde4",
+        "id": "bb513962124d1dc3",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e3d5faaddea9b1",
+            "id": "a83144ad44d9c88e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HI4168 Project Draft 1 Prep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2db402245ad78267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HI4168 Project Assignment Proposal Draft 1 Prep.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HI4168 Project Draft 1 Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HI4168 Project Draft 1 Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HI4168 Project Draft 1 Prep.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,35 +148,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3e3d5faaddea9b1",
+  "active": "a83144ad44d9c88e",
   "lastOpenFiles": [
-    "HI4168 Project Assignment Proposal Draft 1 Prep.md",
-    "HI4168 Project Assignment.md",
+    "EH4007 Final Essay Assignment Draft 1 Prep.md",
+    "EH4007 Final Essay Assignment Draft 1.md",
+    "English MLA Referencing Guide.md",
+    "EH4007 Final Essay Assignment.md",
+    "HI4247 Final Project Assignment Draft 1 Prep.md",
     "HI4168 Project Draft 1 Prep.md",
+    "UL 4th Year Vault/4th Year.md",
     "HI4168 Project Assignment Proposal Draft 2.md",
     "HI4168 Project Presentation Draft 1.md",
-    "UL 4th Year Vault/4th Year.md",
-    "HI4168 Project Presentation Draft 1 Prep.md",
-    "HI4168 Presentation.md",
-    "HI4168 Project Assignment Proposal Draft 1.md",
-    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
-    "Country House in Ireland Week 9.md",
-    "UL 4th Year Vault/Timetable.md",
-    "Empires, Nations and Union Week 9.md",
-    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
-    "FYP Draft 1 Prep.md",
-    "I. Literature Review.md",
-    "UL 4th Year Vault/FYP.md",
-    "III. Methodology.md",
-    "Psychological Data.md",
-    "II. Case Studies.md",
-    "FYP skeleton.pdf",
-    "Literary Modernism Week 9.md",
+    "HI4168 Project Assignment.md",
     "HI4247 Final Project Assignment.md",
-    "EH4037 Poetry Assignment.md",
-    "Creative Writing Week 9.md",
-    "Creative Writing Week 8.md",
+    "3c232339e1b1939680997ed50c7e464b.pdf",
+    "UL 4th Year Vault/EH4007 - Literary Modernism.md",
+    "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
+    "HI4247 Podcast Assignment Draft 1.md",
+    "HI4247 Podcast Assignment Draft 1 Prep.md",
+    "HI4247 Podcast Assignment.md",
+    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
+    "Country House in Ireland Week 12.md",
+    "Country House in Ireland Week 11.md",
+    "Country House in Ireland Week 10.md",
+    "Empires, Nations and Union Week 12.md",
+    "Empires, Nations and Union Week 11.md",
+    "Empires, Nations and Union Week 10.md",
     "UL 4th Year Vault/EH4037 - Creative Writing.md",
+    "Creative Writing Week 12.md",
+    "Creative Writing Week 11.md",
+    "FYP skeleton.pdf",
     "Undergrad Booklet 2023.24 - Copy.pdf",
     "Lowry, Aaron, 20263775. EH4007 Close Reading Assignment..docx",
     "Kevin Barry Breakfast Wine.pdf",
@@ -215,7 +196,6 @@
     "Pasted image 20230928170633.png",
     "Pasted image 20230928170627.png",
     "Pasted image 20230928170620.png",
-    "6- Edna O Brien, The Rug.pdf",
     "Untitled.canvas"
   ]
 }

@@ -1,4 +1,22 @@
 #assignment 
+# Idea
+
+**A Committed Improver, Charles Cootes legacy of development in Mountrath, Maryborough and Ballyfin**
+# Structure
+**3000 WORDS**
+*around 333 words each*
+
+P1 - INTRO
+P2 - COOTE HISTORY
+P3 - BALLYFIN HISTORY
+
+P4 - COOTE DEVELOPEMENT IN QUEENS COUNTY
+P5 - COOTE DEVELOPEMENT IN BALLYFIN
+P6 - RELATION WITH WORKERS AND TENANTS
+
+P7 - POST COOTE LEGACY
+P8 - SIGNIFICANCE IN RELATION TO CLASS AND CULTURE
+P9 - CONCLUSION
 
 # Sources
 

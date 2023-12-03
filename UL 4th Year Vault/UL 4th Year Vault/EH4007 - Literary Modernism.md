@@ -16,7 +16,9 @@
  - [[Literary Modernism Week 7]] 
  - [[Literary Modernism Week 8]] 
  - [[Literary Modernism Week 9]] 
- -[[ Literary Modernism Week 10]]  
+ - [[ Literary Modernism Week 10]]  
+ - [[Literary Modernism Week 11]] 
+ - [[Literary Modernism Week 12]]
 
 # Module Outline
 
@@ -24,3 +26,4 @@
 
 # [[Literary Modernism Core Texts]] 
 
+# [[EH4007 Final Essay Assignment]] 
