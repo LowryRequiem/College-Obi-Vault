@@ -12,6 +12,15 @@ P5 - INTERWAR TECHNOLOGICAL AND CULTURAL SHIFT
 P6 - WW2 PROPAGANDA
 P7 - WW2 REFLECTION AND THEMES
 P8 - CONCLUSION
+
+P2 - 
+Film as Entertainment: Before WW1, films primarily served as a novelty and entertainment. Works by Georges Méliès, notably "A Trip to the Moon" (1902), captured audiences' imagination, offering brief spectacles that mesmerized early cinema-goers. However, these silent films were limited in duration and lacked synchronized sound, restricting their storytelling capabilities. The average length of films rarely exceeded 20 minutes, focusing on light entertainment rather than narrative depth.
+
+Technological Limitations: Silent films, though popular, faced inherent constraints due to technological limitations. Without synchronized sound, storytelling relied heavily on visual cues and title cards. This limitation affected narrative complexity and emotional depth. Despite these challenges, the silent film industry thrived, catering to the burgeoning entertainment needs of audiences worldwide.
+
+P3 - 
+ **military force is based upon deception**
+
 # Idea
 
 The growth of film as a result of the world wars
@@ -67,3 +76,47 @@ Propaganda, Technological Refinement, and Narrative Shift: WW2 brought about tra
 #### Paragraph 10 (Approx. 350 words)
 
 Resilience and Societal Reflection: Films produced during WW2 reflected the resilience of societies amidst conflict. Themes of sacrifice, resistance, and unity were prominently featured in films like "Casablanca" (1942) and "Mrs. Miniver" (1942), mirroring the wartime spirit. These films not only entertained but also served as a medium for societal reflection and collective catharsis.
+
+# Bibliography
+
+Gunning, T., 1986. The cinema of attractions: Early film, its spectator and the avant-garde. _Theater and Film: A Comparative Anthology_, p.39.
+
+Georges Méliès, *Le Voyage Dans La Lune* 1902.
+
+Andre Gaudreault, 2006, From ‘Primitive Cinema’ to ‘Kine-Atractography’.** 
+
+Virilio, P., 1989. _War and cinema: The logistics of perception_. Verso.
+
+Stojanova, C., 2017. The Great War, Cinema Propaganda: The Emancipation of Film Language. _Acta Universitatis Sapientiae, Film and Media Studies_, (14), pp.131-156.
+
+Steven Cable, *Aerial photography and the First World War* The National Archives, 2015.
+
+Olivia Jenkins, *Shooting the Great War: Kodak cameras and the first world war* in *Kodak Canada: The Early Years (1899-1939) exhibition*. 
+
+Canadian Kodak Co., “Vest Pocket Kodak, Model B,” _KODAK CANADA: The Early Years (1899-1939) Exhibition_, accessed December 3, 2023, https://kodakcanada.omeka.net/items/show/41.
+
+The Battle of the Somme. The National Archives UK. 1916
+
+Smither, Roger: Film/Cinema , in: 1914-1918-online. International Encyclopedia of the First World War, ed. by Ute Daniel, Peter Gatrell, Oliver Janz, Heather Jones, Jennifer Keene, Alan Kramer, and Bill Nasson, issued by Freie Universität Berlin, Berlin 2015-08-20. **DOI**: [10.15463/ie1418.10705](http://dx.doi.org/10.15463/ie1418.10705).
+
+Mirsalis, Jon C. ["The Kaiser, the Beast of Berlin"](http://lonchaney.org/filmography/102.html). _Lonchaney.org_. Retrieved 11 March 2021.
+
+Robert Wiene, Hans Janowitz and Carl Mayer. 1920. The Cabinet of Dr. Caligari. 
+
+Chapman, J., 2000. The power of propaganda. _Journal of Contemporary History_, _35_(4), pp.679-688.
+
+The rules of the game
+
+the jazz singer
+
+the eternal jew
+
+'Jud Süß'
+
+The Fall of Berlin
+
+Why we fight
+
+Rashomon
+
+Galt, R., 2006. _The new European cinema: redrawing the map_. Columbia University Press.
