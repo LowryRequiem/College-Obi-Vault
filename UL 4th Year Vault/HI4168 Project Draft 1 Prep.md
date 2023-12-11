@@ -20,6 +20,30 @@ P9 - CONCLUSION
 
 # Sources
 
+Hajba, Anna-Maria, The Coote Papers, (1755-1969), (UL Special Collections, accessed 7 Nov. 2023 [https://specialcollections.ul.ie/projects/coote/](https://specialcollections.ul.ie/projects/coote/)).
+
+Flemming, David, ‘The Correspondence of Eyre Coote with His Brother, Charles Henry Coote, and Others on the Irish Act of Union, 1799-1800' in Analecta Hibernica, (2007) (40) pp 189-228.
+
+Mulligan, Kevin V, Ballyfin: the restoration of an Irish house and demesne, (Tralee:Churchill House Press 2011) pp.
+
+Dooley, Terence, The Big Houses and Landed Estates of Ireland: A Research Guide, (Four Courts Press 2007) pp 13-14.
+
+1/1/7 Lease, Coote Papers, 1795 (UL Special Collections, accessed 21 Nov. 2023 [https://specialcollections.ul.ie/wp-content/uploads/2022/10/P10_Coote.pdf](https://specialcollections.ul.ie/wp-content/uploads/2022/10/P10_Coote.pdf)).
+
+1/1/18 Lease, Coote Papers, 1818 (UL Special Collections accessed 21 Nov. 2023 [https://specialcollections.ul.ie/wp-content/uploads/2022/10/P10_Coote.pdf](https://specialcollections.ul.ie/wp-content/uploads/2022/10/P10_Coote.pdf)).
+
+ 1/1/27 Lease, Coote Papers, 1824 (UL Special Collections accessed 21 Nov. 2023 [https://specialcollections.ul.ie/wp-content/uploads/2022/10/P10_Coote.pdf](https://specialcollections.ul.ie/wp-content/uploads/2022/10/P10_Coote.pdf)).
+ 
+ 1/1/12 Lease, Coote Papers, 1810 (UL Special Collections accessed 21 Nov. 2023 [https://specialcollections.ul.ie/wp-content/uploads/2022/10/P10_Coote.pdf](https://specialcollections.ul.ie/wp-content/uploads/2022/10/P10_Coote.pdf)).
+ 
+Coote, Charles, Statistical Survey of the Queen’s County, 1801 (Ask about Ireland accessed 3 Dec. 2023 [https://www.askaboutireland.ie/aai-files/assets/ebooks/317_Laois-Statistical-Survey/317%20Statistic%20of%20the%20Queens%20County.pdf](https://www.askaboutireland.ie/aai-files/assets/ebooks/317_Laois-Statistical-Survey/317%20Statistic%20of%20the%20Queens%20County.pdf)).
+
+Robert, ’Ireland's Finest Prospect: The story of Ballyfin Demesne‘ in Roaringwater Journal (2018) (accessed 20 Nov. 2023 [https://roaringwaterjournal.com/2018/05/27/ballyfin-part-2-decline-and-revival/](https://roaringwaterjournal.com/2018/05/27/ballyfin-part-2-decline-and-revival/)).
+
+Sir Charles Henry Coote, 9th Bart, Memorial, 1896 (WikiTree accessed 6 Dec. 2023 [https://www.wikitree.com/photo/jpg/DWK_Lynch_Family_Pictures-225](https://www.wikitree.com/photo/jpg/DWK_Lynch_Family_Pictures-225)).
+
+
+
 *Coote Papers, Object 1*
 
 The first source is a large, hand written deed out to Charles Coote and his heirs for lands in Laois. The Deed alludes to the responsibilities in owning these lands, such as the sales of leases and mortgages. The deed is signed and wax sealed by several parties. They are entrusted with the responsibilities of preserving said lands. 

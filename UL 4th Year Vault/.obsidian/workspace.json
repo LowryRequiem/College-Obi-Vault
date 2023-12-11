@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5826e217245931ce",
+        "id": "6b9389d0e6e29ebf",
         "type": "tabs",
         "children": [
           {
-            "id": "920f568c5d3ed4fc",
+            "id": "ba28eb0bccebdda5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HI4168 Project Draft 1 Prep.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HI4168 Project Draft 1 Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HI4168 Project Draft 1 Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HI4168 Project Draft 1 Prep.md"
+              }
             }
           },
           {
@@ -148,35 +156,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "920f568c5d3ed4fc",
+  "active": "ba28eb0bccebdda5",
   "lastOpenFiles": [
+    "HI4168 Project Assignment.md",
+    "HI4168 Project Assignment Proposal Draft 1 Prep.md",
+    "HI4168 Project Draft 1.md",
+    "Literary Modernism Week 7.md",
     "HI4168 Project Draft 1 Prep.md",
+    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
+    "Country House in Ireland Week 6.md",
+    "Country House in Ireland Week 2.md",
+    "Country House in Ireland Week 1.md",
+    "History UL Referencing Guide.md",
+    "UL 4th Year Vault/4th Year.md",
+    "HI4247 Final Project Draft 1.md",
+    "EH4007 Final Essay Assignment Draft 1.md",
+    "HI4168 Project Presentation Draft 1.md",
+    "HI4168 Project Presentation Draft 1 Prep.md",
+    "HI4168 Project Assignment Proposal Draft 2.md",
+    "HI4168 Presentation.md",
+    "HI4168 Project Assignment Draft 1 Prep.md",
     "HI4247 Podcast Assignment Draft 1.md",
     "HI4247 Final Project Assignment Draft 1 Prep.md",
-    "HI4247 Final Project Draft 1.md",
     "HI4247 Final Project Assignment.md",
     "EH4007 Final Essay Assignment Draft 1 Prep.md",
-    "EH4007 Final Essay Assignment Draft 1.md",
     "English MLA Referencing Guide.md",
     "EH4007 Final Essay Assignment.md",
-    "UL 4th Year Vault/4th Year.md",
-    "HI4168 Project Assignment Proposal Draft 2.md",
-    "HI4168 Project Presentation Draft 1.md",
-    "HI4168 Project Assignment.md",
     "3c232339e1b1939680997ed50c7e464b.pdf",
     "UL 4th Year Vault/EH4007 - Literary Modernism.md",
     "UL 4th Year Vault/HI4247 - Empires, Nations and Union.md",
-    "HI4247 Podcast Assignment Draft 1 Prep.md",
-    "HI4247 Podcast Assignment.md",
-    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
-    "Country House in Ireland Week 12.md",
-    "Country House in Ireland Week 11.md",
-    "Country House in Ireland Week 10.md",
-    "Empires, Nations and Union Week 12.md",
-    "Empires, Nations and Union Week 11.md",
-    "Empires, Nations and Union Week 10.md",
-    "UL 4th Year Vault/EH4037 - Creative Writing.md",
-    "Creative Writing Week 12.md",
     "FYP skeleton.pdf",
     "Undergrad Booklet 2023.24 - Copy.pdf",
     "Lowry, Aaron, 20263775. EH4007 Close Reading Assignment..docx",
