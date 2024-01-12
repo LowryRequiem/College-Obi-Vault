@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "357c6da067dcd96f",
+        "id": "d3b9cc442c5a526c",
         "type": "tabs",
+        "dimension": 42.10526315789473,
         "children": [
           {
-            "id": "1a8c4d1a8e1b7f47",
+            "id": "caf3d50ab10d8220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYP Draft 2.md",
+                "file": "FYP Draft 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cf74aa6a2f132bbe",
+        "type": "tabs",
+        "dimension": 57.89473684210527,
+        "children": [
+          {
+            "id": "9305fbc293eadc55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP Draft 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FYP Draft 2.md",
+                "file": "FYP Draft 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FYP Draft 2.md",
+                "file": "FYP Draft 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FYP Draft 2.md"
+                "file": "FYP Draft 4.md"
               }
             }
           },
@@ -159,10 +179,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a8c4d1a8e1b7f47",
+  "floating": {
+    "id": "e9e5951bb0dd4a1b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5b9f4027491d0ae7",
+        "type": "window",
+        "children": [
+          {
+            "id": "560aa49c0aeafb41",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1a8c4d1a8e1b7f47",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "FYP Draft 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1536,
+        "y": -216,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9305fbc293eadc55",
   "lastOpenFiles": [
-    "FYP Draft 1.md",
     "FYP Draft 2.md",
+    "FYP Draft 4.md",
+    "FYP Draft 3.md",
+    "FYP Draft 1.md",
     "FYP Draft 1 Prep.md",
     "UL 4th Year Vault/FYP.md",
     "I. Literature Review.md",
@@ -186,8 +245,6 @@
     "3c232339e1b1939680997ed50c7e464b.pdf",
     "UL 4th Year Vault/EH4007 - Literary Modernism.md",
     "HI4247 Podcast Assignment Draft 1 Prep.md",
-    "HI4247 Podcast Assignment.md",
-    "UL 4th Year Vault/HI4168 - The Country House in Ireland.md",
     "FYP skeleton.pdf",
     "Undergrad Booklet 2023.24 - Copy.pdf",
     "Lowry, Aaron, 20263775. EH4007 Close Reading Assignment..docx",
